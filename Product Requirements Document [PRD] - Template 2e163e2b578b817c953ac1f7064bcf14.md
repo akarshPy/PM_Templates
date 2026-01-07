@@ -1,5 +1,7 @@
 # Product Requirements Document [PRD] - Template
 
+Credits: [HelloPM ](https://hellopm.co/)
+
 [**Walkthrough video 📌**](https://www.youtube.com/watch?v=JJzODsXsCt0)
 
 | Title/Initiative |  |
